@@ -6,3 +6,5 @@ Framework : Testng with Page Object Model
 
 Steps to run:
 - Run testng.xml suite as Testng Application.
+
+Report of run can be found at : HOOQAssignmentForWebApplication/HOOQAssignment/test-output/index.html
