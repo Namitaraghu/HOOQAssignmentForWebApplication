@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="237397" started-at="2019-10-08T15:45:26Z" finished-at="2019-10-08T15:49:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="237397" started-at="2019-10-08T15:45:26Z" finished-at="2019-10-08T15:49:24Z">
+      <class name="com.store.qa.testcases.Task2LoginProcessTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="12496" started-at="2019-10-08T23:45:46Z" finished-at="2019-10-08T23:45:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase1()[pri:1, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase1" duration-ms="2588" started-at="2019-10-08T23:45:58Z" finished-at="2019-10-08T23:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="676" started-at="2019-10-08T23:46:01Z" finished-at="2019-10-08T23:46:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="13516" started-at="2019-10-08T23:46:01Z" finished-at="2019-10-08T23:46:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase2()[pri:2, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase2" duration-ms="21637" started-at="2019-10-08T23:46:15Z" finished-at="2019-10-08T23:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="651" started-at="2019-10-08T23:46:36Z" finished-at="2019-10-08T23:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="11211" started-at="2019-10-08T23:46:37Z" finished-at="2019-10-08T23:46:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase3()[pri:3, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase3" duration-ms="22734" started-at="2019-10-08T23:46:48Z" finished-at="2019-10-08T23:47:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="659" started-at="2019-10-08T23:47:11Z" finished-at="2019-10-08T23:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="11345" started-at="2019-10-08T23:47:12Z" finished-at="2019-10-08T23:47:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase4()[pri:4, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase4" duration-ms="22171" started-at="2019-10-08T23:47:23Z" finished-at="2019-10-08T23:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="643" started-at="2019-10-08T23:47:45Z" finished-at="2019-10-08T23:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="10739" started-at="2019-10-08T23:47:46Z" finished-at="2019-10-08T23:47:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase5()[pri:5, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase5" duration-ms="22491" started-at="2019-10-08T23:47:57Z" finished-at="2019-10-08T23:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase5 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="664" started-at="2019-10-08T23:48:19Z" finished-at="2019-10-08T23:48:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="10441" started-at="2019-10-08T23:48:20Z" finished-at="2019-10-08T23:48:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase6()[pri:6, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase6" duration-ms="2889" started-at="2019-10-08T23:48:30Z" finished-at="2019-10-08T23:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase6 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="703" started-at="2019-10-08T23:48:33Z" finished-at="2019-10-08T23:48:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="10838" started-at="2019-10-08T23:48:34Z" finished-at="2019-10-08T23:48:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase7()[pri:7, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase7" duration-ms="3611" started-at="2019-10-08T23:48:45Z" finished-at="2019-10-08T23:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase7 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="651" started-at="2019-10-08T23:48:48Z" finished-at="2019-10-08T23:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="12968" started-at="2019-10-08T23:48:49Z" finished-at="2019-10-08T23:49:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase8()[pri:8, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase8" duration-ms="1226" started-at="2019-10-08T23:49:02Z" finished-at="2019-10-08T23:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase8 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="782" started-at="2019-10-08T23:49:03Z" finished-at="2019-10-08T23:49:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="setUp" is-config="true" duration-ms="13671" started-at="2019-10-08T23:49:04Z" finished-at="2019-10-08T23:49:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase9()[pri:9, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="loginTestCase9" duration-ms="5338" started-at="2019-10-08T23:49:18Z" finished-at="2019-10-08T23:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase9 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.Task2LoginProcessTest@675d3402]" name="tearDown" is-config="true" duration-ms="683" started-at="2019-10-08T23:49:23Z" finished-at="2019-10-08T23:49:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.store.qa.testcases.Task2LoginProcessTest -->
+      <class name="com.store.qa.testcases.SignUpSectionTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.store.qa.testcases.SignUpSectionTest@51565ec2]" name="setUp" is-config="true" duration-ms="18609" started-at="2019-10-08T23:45:26Z" finished-at="2019-10-08T23:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAccountCreationTest()[pri:0, instance:com.store.qa.testcases.SignUpSectionTest@51565ec2]" name="verifyAccountCreationTest" duration-ms="73" started-at="2019-10-08T23:45:45Z" finished-at="2019-10-08T23:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountCreationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.store.qa.testcases.SignUpSectionTest@51565ec2]" name="tearDown" is-config="true" duration-ms="663" started-at="2019-10-08T23:45:45Z" finished-at="2019-10-08T23:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.store.qa.testcases.SignUpSectionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

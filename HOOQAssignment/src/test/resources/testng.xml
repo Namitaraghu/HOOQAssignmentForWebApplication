@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HOOQ Assignment Test Automation Test Suite">
+
+	<test name="Store Test Cases PageWise">
+		<classes>
+			<class name="com.store.qa.testcases.SignUpSectionTest"></class>
+			<class name="com.store.qa.testcases.Task2LoginProcessTest"></class>
+		</classes>
+	</test>
+</suite>
